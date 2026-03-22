@@ -1,6 +1,0 @@
-$ mkdir -p "/Users/icd/Workspace/esp32-os/crates/thistle-tk/target/debug/build/az-07648d676c9860ef/out/try_track_caller"
-$ cd "/Users/icd/Workspace/esp32-os/crates/thistle-tk/target/debug/build/az-07648d676c9860ef/out/try_track_caller"
-$ printf '%s' "// try_tra"... > "/Users/icd/Workspace/esp32-os/crates/thistle-tk/target/debug/build/az-07648d676c9860ef/out/try_track_caller/try_track_caller.rs"
-$ cd "/Users/icd/Workspace/esp32-os/crates/thistle-tk/target/debug/build/az-07648d676c9860ef/out/try_track_caller" && "/Users/icd/.rustup/toolchains/stable-aarch64-apple-darwin/bin/rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
-cargo:rustc-cfg=track_caller
-$ rm -r "/Users/icd/Workspace/esp32-os/crates/thistle-tk/target/debug/build/az-07648d676c9860ef/out/try_track_caller"
